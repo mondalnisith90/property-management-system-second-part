@@ -1,0 +1,30 @@
+.listitem_root_div {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.listitem_inner_div {
+  width: 40%;
+  padding: 10px;
+  border: 3px solid #07fa6c;
+  border-radius: 8px;
+}
+
+.listitem_head_div {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 10px 5px 10px;
+}
+
+.listitem_description_div {
+  text-align: justify;
+}
+
+.item_delete_icon {
+  color: #db045a;
+  font-size: 27px !important;
+  cursor: pointer;
+}

@@ -1,0 +1,23 @@
+.home_heading_div {
+  background-color: #74cc80;
+  padding: 20px;
+}
+
+.home_heading_text {
+  text-align: center;
+  color: #000000;
+  font-size: 30px;
+}
+
+.home_body_div {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.add_property_button {
+  background-color: #c90a5a !important;
+  text-transform: capitalize !important;
+  font-size: 16px !important;
+  color: wheat !important;
+  font-weight: 600 !important;
+}

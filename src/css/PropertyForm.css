@@ -1,0 +1,41 @@
+.form_div {
+  margin-top: 10px;
+}
+
+.form_inner_div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.form_input_div {
+  width: 500px;
+  text-align: start;
+  margin-top: 8px;
+}
+
+.form_label {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.form_input_field {
+  width: 100%;
+  padding: 8px;
+  font-size: 16px;
+  border-radius: 10px;
+  border: 3px solid #00a2d4;
+  outline: none;
+  margin-top: 5px;
+}
+
+.add_property_btn {
+  width: 200px;
+  background-color: #07546b !important;
+  text-transform: capitalize !important;
+  font-size: 16px !important;
+  color: wheat !important;
+  font-weight: 500 !important;
+  margin-top: 10px !important;
+}
