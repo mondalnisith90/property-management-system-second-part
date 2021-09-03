@@ -17,7 +17,7 @@ const Home = () => {
 
     
     useEffect(() => {
-      //Fetching all property records when browser is loading
+      //Fetching all property records from server when browser is loading
       getPropertyListFromServer();
     }, []);
 
@@ -72,7 +72,6 @@ const Home = () => {
         //if form is not visible, Show the form
         setFormVisibility(true);
       }
-      // getPropertyListFromServer();
     }
 
 
